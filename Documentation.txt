@@ -1,0 +1,10 @@
+   								JUDGE0 IDE
+   
+
+Judge0 is a online compiler for compile c,c++,java,javasript,python,sql.You can type your code and run by clicking Run button.you have to select the respective language.
+I included css(cascading style sheet) for styling the web page,images in the web page,javascript file,index file.Index.html represents the main thing in this project.Here I include everything like how to build a pge.
+You have to give a input in stdin window and thereby clicking run button the code will be executed and output is projected in stdout window.Finally my judge0 ide project is done.
+															
+
+																		By 
+																		   P.Atchaya
